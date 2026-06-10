@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.2 Preparation of Tools</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Preparation of Tools</para>
+    </header>
+    <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.07; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Prepare the tools needed for the various work procedures.</text></para>
+    <para styleclass="Figure E"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; Tools Required for Installation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="4" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:140px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:140px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Part No.</para>
+        </td>
+        <td style="width:241px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Notes</para>
+        </td>
+        <td style="width:72px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Qty</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Hammer drill</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Anchor drill</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">22 mm diameter</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Pile hammer</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; Tools Required for Tool Magazine Centering Adjustment</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="8" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:140px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:140px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Part No.</para>
+        </td>
+        <td style="width:241px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Notes</para>
+        </td>
+        <td style="width:72px; height:23px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Qty</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Indicator</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Min display increment: 2 </text><text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">m</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">m or less</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Magnet stand</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Feeler gauge</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Thickness 0.1 mm</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool change lever</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1HS310B03A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">(HSK-A63 standard accessory)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Centering holder</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">J7M705A100501</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">For HSK-A63</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Ring gauge</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">J7M705A100601</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">For HSK-A63</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Centering shaft</text></para>
+        </td>
+        <td style="vertical-align:middle; width:140px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A2T98-A2033E</text></para>
+        </td>
+        <td style="vertical-align:middle; width:241px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">For HSK-A63</text></para>
+        </td>
+        <td style="vertical-align:middle; width:72px; height:23px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-22T09:23:22.656+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1 Preparation for Installation</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Preparation for Installation</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-bottom:0px;"><image src="Danger symbol no text.jpg" scale="18.00%" width="48" height="41" figurelistinclude="0"></image></para>
+          <para styleclass="Warning_bold_1">WARNING</para>
+        </td>
+        <td style="vertical-align:middle; width:560px; border-left:none;">
+          <list id="0" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:9px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:9px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Before performing the installation work, be sure to carefully read Chapter 1: Safety, and perform work while paying attention to safety.</text></li>
+            <li styleclass="Table font Warning_2">Some installation processes can only be performed while operating the machine, and so careful attention is necessary.</li>
+          </list>
+          <list id="1" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="Table font Warning_2" style="margin-bottom:4px; font-family:Arial; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_2" style="margin-bottom:4px;">Be sure to place a warning tag on each operation panel, main power switch, and other locations when performing work to ensure that other personnel do not turn ON the power inadvertently which could result in the machine being operated.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:10px;">This section specifically describes safety information for installation as well as what needs to be checked when performing installation. Be sure to carefully read this together with Chapter 1: Safety, and perform while paying careful attention to safety.</para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-weight:bold;">Installation Location</text></para>
+    <para styleclass="Normal" style="margin-bottom:10px;">Assign an installation location based on the elevated view drawing.</para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-weight:bold;">Power Supply and Compressed Air Source</text>&#32;</para>
+    <para styleclass="Normal" style="margin-bottom:10px;">Refer to the elevated view drawing for the required capacities for the power supply and compressed air source and for the locations of the connection ports.</para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-weight:bold;">Installation Location Requirements </text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When installing the machine, select a location that meets the requirements below.</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <list id="2" level="1" type="ul" listtype="bullet" formatstring="&#111;" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;">
+        <list id="2" level="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+          <li styleclass="Normal" style="margin-bottom:8px;">Location not subjected to vibrations or physical impact. Vibrations and impact can cause malfunctions and breakdowns of the machine.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location not exposed to dust. Installation in locations exposed to dust can adversely affect machine accuracy and result in breakdowns. </li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Well-lit location. Install in a well-lit location for enabling work to be performed safely.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location not exposed to direct sunlight. Exposure to direct sunlight can adversely affect machine accuracy and result in breakdowns. </li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location not exposed to extreme changes in temperature. Install in a location having the temperature and humidity environment below.</li>
+        </list>
+      </list>
+    </list>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <list id="3" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+        <list id="3" level="2" type="ol" listtype="decimal" formatstring="&#37;&#50;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+          <li styleclass="Normal" style="margin-bottom:8px;">Ambient temperature: 10°C to 40°C (Optimal temperature: 20±1°C)</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Relative humidity: 35% to 70% (No condensation)</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Changes in temperature: 1°C/30 minutes or less</li>
+        </list>
+      </list>
+    </list>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <list id="2" level="1" type="ul" listtype="bullet" formatstring="&#111;" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:&apos;Courier New&apos;; font-size:11pt; color:#000000;">
+        <list id="2" level="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+          <li styleclass="Normal" style="margin-bottom:8px;">Location providing ample space for a maintenance area. Refer to the elevated view drawing.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location providing ample space for easily loading and unloading tools and workpieces and where maintenance work can easily be performed.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location with ample space for routes for carrying in and out the machine.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location that can fully support the machine weight. The weight of the heavyweight machine model is about 7300 kg.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Location with anti-slip floor surfaces in the area around the machine.</li>
+          <li styleclass="Normal" style="margin-bottom:8px;">Well-ventilated location.</li>
+        </list>
+      </list>
+    </list>
+  </body>
+</topic>

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="Installation-Manual">
+  <topicref type="topic" id="442603360544031" build="ALL" modified="2021-03-01T10:39:32.664Z" icon="2" href="Chapter-1-Safety">
+    <caption translate="true">Chapter 1   Safety</caption>
+    <topicref type="topic" id="438815517549113" build="ALL" modified="2018-06-19T11:39:09.448Z" icon="0" href="1-Safety-Precautions">
+      <caption translate="true">Safety Precautions</caption>
+      <topicref type="topic" id="431604467117330" build="ALL" modified="2018-03-01T09:58:35.932Z" icon="0" href="Operators-Checks">
+        <caption translate="true">Operators Checks</caption>
+      </topicref>
+      <topicref type="topic" id="43108521768920" build="ALL" modified="2018-01-24T14:01:38.959Z" icon="0" href="1_2-Work-Environment-Checks">
+        <caption translate="true">Work Environment Checks</caption>
+      </topicref>
+      <topicref type="topic" id="431097532869599" build="ALL" modified="2018-01-24T14:02:22.305Z" icon="0" href="1_3-Precautions-for-Potential-">
+        <caption translate="true">Precautions for Potential Fire Hazards</caption>
+      </topicref>
+      <topicref type="topic" id="431097006151928" build="ALL" modified="2018-01-24T14:02:27.915Z" icon="0" href="1_4-Confirmation-of-Machine-St">
+        <caption translate="true">Confirmation of Machine Status</caption>
+      </topicref>
+      <topicref type="topic" id="431097174548778" build="ALL" modified="2018-01-24T14:02:40.588Z" icon="0" href="1_5-Pre-operation-Checks">
+        <caption translate="true">Pre-operation Checks</caption>
+      </topicref>
+      <topicref type="topic" id="431096675967176" build="ALL" modified="2018-01-24T14:02:45.742Z" icon="0" href="1_6-Implementing-Lock-out-and-">
+        <caption translate="true">Implementing Lock-out and Tag-out</caption>
+      </topicref>
+      <topicref type="topic" id="431096705900833" build="ALL" modified="2018-01-24T14:02:50.045Z" icon="0" href="1_7-During-Work">
+        <caption translate="true">During Work</caption>
+      </topicref>
+      <topicref type="topic" id="431095714398457" build="ALL" modified="2018-01-24T14:02:57.285Z" icon="0" href="1_8-Handling-of-Hazardous-and-">
+        <caption translate="true">Handling of Hazardous and Toxic Materials</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="438815629715496" build="ALL" modified="2018-06-19T11:39:50.150Z" icon="0" href="2-Warning-Labels">
+      <caption translate="true">Warning Labels</caption>
+      <topicref type="topic" id="431098358354797" build="ALL" modified="2018-01-24T14:03:07.110Z" icon="0" href="2_1-Signal-Word-Definitions">
+        <caption translate="true">Signal Word Definitions</caption>
+      </topicref>
+      <topicref type="topic" id="431095910812665" build="ALL" modified="2018-01-24T14:03:10.577Z" icon="0" href="2_2-Using-Warning-Labels">
+        <caption translate="true">Using Warning Labels</caption>
+      </topicref>
+      <topicref type="topic" id="43110376649780" build="ALL" modified="2018-01-24T14:03:15.285Z" icon="0" href="2_3-Information-Contained-in-W">
+        <caption translate="true">Information Contained in Warning Labels</caption>
+        <topicref type="topic" id="431096288364419" build="ALL" modified="2018-01-24T14:03:19.097Z" icon="0" href="2_3_1-Warning-Labels-with-Warn">
+          <caption translate="true">Warning Labels with Warning Text</caption>
+        </topicref>
+        <topicref type="topic" id="431095780324020" build="ALL" modified="2018-01-24T14:03:33.294Z" icon="0" href="2_3_2-Warning-Labels-with-Warn">
+          <caption translate="true">Warning Labels with Warning Marks Only</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="431095246499076" build="ALL" modified="2018-01-24T14:03:39.585Z" icon="0" href="2_4-Warning-Labels-Locations">
+        <caption translate="true">Warning Labels Locations</caption>
+        <topicref type="topic" id="431095519356843" build="ALL" modified="2018-01-24T14:03:44.963Z" icon="0" href="2_4_1-Warning-Labels-Locations">
+          <caption translate="true">Warning Labels Locations on Standard Machine</caption>
+        </topicref>
+        <topicref type="topic" id="431096659511663" build="ALL" modified="2018-01-24T14:03:49.573Z" icon="0" href="2_4_2-Labels">
+          <caption translate="true">Labels</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="438814976857373" build="ALL" modified="2020-02-20T11:35:38.062Z" icon="0" href="3-Safety-Devices_3">
+      <caption translate="true">Safety Devices</caption>
+      <topicref type="topic" id="431603758467627" build="ALL" modified="2020-06-23T11:08:42.392Z" icon="0" href="3_1-Emergency-Stop-Switch_3">
+        <caption translate="true">Emergency Stop Switch</caption>
+      </topicref>
+      <topicref type="topic" id="431098828621145" build="ALL" modified="2020-02-20T11:37:58.434Z" icon="0" href="3_2-Door-Switch_3">
+        <caption translate="true">Door Switch</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="438812854824554" build="ALL" modified="2020-02-20T11:38:06.207Z" icon="0" href="4-Work-Hazards_3">
+      <caption translate="true">Work Hazards</caption>
+      <topicref type="topic" id="431095391012386" build="ALL" modified="2020-02-20T11:38:11.489Z" icon="0" href="4_1-Area-Surrounding-Machine_3">
+        <caption translate="true">Area Surrounding Machine</caption>
+      </topicref>
+      <topicref type="topic" id="431098562043867" build="ALL" modified="2020-02-20T11:38:17.046Z" icon="0" href="4_2-Electrical-System_3">
+        <caption translate="true">Electrical System</caption>
+      </topicref>
+      <topicref type="topic" id="431097121208397" build="ALL" modified="2020-02-20T11:38:21.249Z" icon="0" href="4_3-Parameters_3">
+        <caption translate="true">Parameters</caption>
+      </topicref>
+      <topicref type="topic" id="431097171930021" build="ALL" modified="2020-02-20T11:38:25.994Z" icon="0" href="4_4-Inside-the-Machining-Chamb_3">
+        <caption translate="true">Inside the Machining Chamber</caption>
+      </topicref>
+      <topicref type="topic" id="431095797878218" build="ALL" modified="2020-02-20T11:38:32.205Z" icon="0" href="4_5-Tool-Magazine_3">
+        <caption translate="true">Tool Magazine</caption>
+      </topicref>
+      <topicref type="topic" id="431095436708908" build="ALL" modified="2020-02-20T11:38:37.593Z" icon="0" href="4_6-Cutting-Fluid-Supply-Unit__3">
+        <caption translate="true">Cutting Fluid Supply Unit/Chip Disposal Device/Cutting Fluid Temperature Controller/Dust Collector (Graphite Specifications)</caption>
+      </topicref>
+      <topicref type="topic" id="431097362150201" build="ALL" modified="2020-02-20T11:38:43.473Z" icon="0" href="4_7-Spindle-Lubricant-Controll_3">
+        <caption translate="true">Spindle Lubricant Controller/Feed Axis Temperature Controller/Hydraulic Unit</caption>
+      </topicref>
+      <topicref type="topic" id="431096245265725" build="ALL" modified="2020-02-20T11:38:47.924Z" icon="0" href="4_8-Pneumatic-Unit_3">
+        <caption translate="true">Pneumatic Unit</caption>
+      </topicref>
+      <topicref type="topic" id="431097420240220" build="ALL" modified="2020-02-20T11:38:52.387Z" icon="0" href="4_9-Splash-Guard_3">
+        <caption translate="true">Splash Guard</caption>
+      </topicref>
+      <topicref type="topic" id="431098857935382" build="ALL" modified="2020-02-20T11:39:00.005Z" icon="0" href="4_10-Other-Peripheral-Equipmen_3">
+        <caption translate="true">Other Peripheral Equipment</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="438813717576316" build="ALL" modified="2018-01-24T14:05:18.558Z" icon="0" href="5-Occupational-Health-and-Safe">
+      <caption translate="true">Occupational Health and Safety Management</caption>
+      <topicref type="topic" id="431098654175946" build="ALL" modified="2018-01-24T14:05:26.053Z" icon="0" href="5_1-Safety-Device-Inspection">
+        <caption translate="true">Safety Device Inspection</caption>
+      </topicref>
+      <topicref type="topic" id="431097721606966" build="ALL" modified="2018-01-24T14:05:29.930Z" icon="0" href="5_2-Noise">
+        <caption translate="true">Noise</caption>
+      </topicref>
+      <topicref type="topic" id="431098004805867" build="ALL" modified="2018-01-24T14:05:34.402Z" icon="0" href="5_3-Personal-Protective-Equipm">
+        <caption translate="true">Personal Protective Equipment</caption>
+      </topicref>
+      <topicref type="topic" id="431098321817781" build="ALL" modified="2018-01-24T14:05:39.059Z" icon="0" href="5_4-Disposal-of-Waste-Products">
+        <caption translate="true">Disposal of Waste Products</caption>
+        <topicref type="topic" id="431097919372007" build="ALL" modified="2018-01-24T14:05:43.571Z" icon="0" href="5_4_1-Disposal-of-Waste-Oil_-W">
+          <caption translate="true">Disposal of Waste Oil, Waste Fluids and Waste Materials</caption>
+        </topicref>
+        <topicref type="topic" id="431094737740553" build="ALL" modified="2018-02-22T15:22:13.407Z" icon="0" href="5_4_2-Disposal-of-This-Machine">
+          <caption translate="true">Disposal of This Machine</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="431616146383814" build="ALL" modified="2021-01-19T11:32:33.410Z" icon="0" href="Chapter-2-Preparation">
+    <caption translate="true">Chapter 2   Preparation</caption>
+    <topicref type="topic" id="431097255600387" build="ALL" modified="2018-01-24T14:05:53.380Z" icon="0" href="1-Preparation-for-Installation">
+      <caption translate="true">Preparation for Installation</caption>
+      <topicref type="topic" id="457484357684809" build="ALL" modified="2019-08-21T09:00:42.005Z" icon="0" href="1_3-Preparation-of-Installatio">
+        <caption translate="true">Preparation of Installation Space</caption>
+      </topicref>
+      <topicref type="topic" id="457756899008402" build="ALL" modified="2025-05-20T13:54:13.115Z" icon="0" href="1_4-Preparation-of-Installatio">
+        <caption translate="true">Preparation of Transport Route</caption>
+      </topicref>
+      <topicref type="topic" id="457755831261442" build="ALL" modified="2023-02-17T11:45:49.282Z" icon="0" href="1_5-Preparation-of-Installation-T">
+        <caption translate="true">Preparation of Installation &amp; Transportation Equipment</caption>
+      </topicref>
+      <topicref type="topic" id="442702278290331" build="ALL" modified="2021-03-15T09:39:51.801Z" icon="0" href="1_1-Preparation-of-Electric--Air-S">
+        <caption translate="true">Preparation of Electric &amp; Air Supply</caption>
+      </topicref>
+      <topicref type="topic" id="457484929038813" build="ALL" modified="2018-06-19T13:17:25.107Z" icon="0" href="1_6-Preparation-of-Foundation">
+        <caption translate="true">Preparation of Foundation</caption>
+      </topicref>
+      <topicref type="topic" id="44420720249575" build="ALL" modified="2021-08-11T14:45:17.544Z" icon="0" href="1_2-Preparation-of-Tools">
+        <caption translate="true">Preparation of Tools</caption>
+      </topicref>
+      <topicref type="topic" id="457724993970549" build="ALL" modified="2023-02-17T11:47:44.178Z" icon="0" href="1_9-Preparation-of-Fixtures-and-Hoisting-Attachments">
+        <caption translate="true">Preparation of Fixtures and Hoisting Attachments</caption>
+        <topicref type="topic" id="442097203750028" build="ALL" modified="2021-01-13T14:02:43.927Z" icon="0" href="Hoisting-Attachments">
+          <caption translate="true">Hoisting Attachments</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="457725569382377" build="ALL" modified="2018-01-24T14:07:07.248Z" icon="0" href="1_2-Hoisting-Peripheral-Equipm">
+        <caption translate="true">Hoisting Peripheral Equipment</caption>
+        <topicref type="topic" id="431605363984865" build="ALL" modified="2025-05-20T13:54:19.021Z" icon="0" href="1_2_1-HoistingtheCoolantTank">
+          <caption translate="true">Hoisting the Coolant Tank &amp; LUCC</caption>
+        </topicref>
+        <topicref type="topic" id="431098624208684" build="ALL" modified="2025-05-20T13:54:23.470Z" icon="0" href="1_2_2-Hoistin-the-Coolant-Temperature-Controller">
+          <caption translate="true">Hoisting the Coolant Temperature Controller</caption>
+        </topicref>
+        <topicref type="topic" id="431161696778935" build="ALL" modified="2025-05-20T13:54:28.704Z" icon="0" href="1_2_3-Hoisting-the-Air-Dryer">
+          <caption translate="true">Hoisting the Air Dryer</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="457935002137069" build="ALL" modified="2025-05-16T08:37:50.075Z" icon="0" href="Chapter-3-Installation">
+    <caption translate="true">Chapter 3 Installation</caption>
+    <topicref type="topic" id="442073014924164" build="ALL" modified="2021-01-11T13:15:32.454Z" icon="0" href="2-Installation-Work">
+      <caption translate="true">Installation Work</caption>
+      <topicref type="topic" id="457971931487167" build="ALL" modified="2025-05-20T09:34:03.551Z" icon="0" href="Machine-Grouting-Method">
+        <caption translate="true">Machine Grouting Method</caption>
+      </topicref>
+      <topicref type="topic" id="457975502284889" build="ALL" modified="2025-05-20T12:16:12.448Z" icon="0" href="Installation-of-Machine-Device">
+        <caption translate="true">Installation of Machine Accessory Units</caption>
+      </topicref>
+      <topicref type="topic" id="457764994029737" build="ALL" modified="2018-06-19T13:12:55.613Z" icon="0" href="2_4_1-Connecting-Wiring-to-Mac">
+        <caption translate="true">Connecting Wiring to Machine</caption>
+      </topicref>
+      <topicref type="topic" id="457964701532651" build="ALL" modified="2025-05-20T12:11:18.519Z" icon="0" href="Wiring-Connection-of-Machine">
+        <caption translate="true">Wiring Connection of Peripheral Devices</caption>
+      </topicref>
+      <topicref type="topic" id="457756200368465" build="ALL" modified="2023-02-17T16:26:56.026Z" icon="0" href="2_2_4-Piping-and-Wiring-Connection-of-Mist-Collector">
+        <caption translate="true">Piping and Wiring Connection of Mist Collector</caption>
+      </topicref>
+      <topicref type="topic" id="457757485845496" build="ALL" modified="2023-02-17T16:27:41.140Z" icon="0" href="2_2_5-Piping-and-Wiring-Connection-of-Air-Dryer">
+        <caption translate="true">Piping and Wiring Connection of Air Dryer</caption>
+      </topicref>
+      <topicref type="topic" id="457755572264025" build="ALL" modified="2018-01-24T14:16:43.792Z" icon="0" href="2_4-Connecting-Power-Supply-an">
+        <caption translate="true">Connecting Power Supply and Air Source to Machine</caption>
+        <topicref type="topic" id="431098120158113" build="ALL" modified="2018-06-19T13:12:49.877Z" icon="0" href="2_4_2-Connecting-Air-Source-to">
+          <caption translate="true">Connecting Air Source to Machine</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="457928121199316" build="ALL" modified="2018-01-24T14:14:23.083Z" icon="0" href="2_3-Lubrication">
+        <caption translate="true">Lubrication</caption>
+        <topicref type="topic" id="431098579627869" build="ALL" modified="2018-06-19T13:13:27.583Z" icon="0" href="2_3_1-Lubricant-and-Hydraulic-">
+          <caption translate="true">Lubricant and Hydraulic Oil List</caption>
+        </topicref>
+        <topicref type="topic" id="444184960643266" build="ALL" modified="2023-02-17T16:30:11.000Z" icon="0" href="2_3_2-Automatic-Grease-Supply-Unit">
+          <caption translate="true">Automatic Grease Supply Unit</caption>
+        </topicref>
+        <topicref type="topic" id="457755029999586" build="ALL" modified="2024-04-08T08:27:20.004Z" icon="0" href="2_3_3-Spindle-Cooler">
+          <caption translate="true">Spindle Oil Temperature Controller</caption>
+        </topicref>
+        <topicref type="topic" id="457757016450721" build="ALL" modified="2023-02-17T16:31:24.546Z" icon="0" href="2_3_4-Hydraulic-Unit">
+          <caption translate="true">Hydraulic Unit</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="45794132679211" build="ALL" modified="2018-01-24T14:17:02.028Z" icon="0" href="2_5-Work-after-Power-Connectio">
+      <caption translate="true">Work after Power Connection</caption>
+      <topicref type="topic" id="457966556218989" build="ALL" modified="2025-05-19T16:19:07.143Z" icon="0" href="Removal-of-Fixtures">
+        <caption translate="true">Removal of Fixtures</caption>
+      </topicref>
+      <topicref type="topic" id="431096173427004" build="ALL" modified="2025-05-20T16:24:09.228Z" icon="0" href="2_5_1-Level-Adjustment">
+        <caption translate="true">Level Adjustment</caption>
+      </topicref>
+      <topicref type="topic" id="457756867641095" build="ALL" modified="2024-04-02T11:19:12.226Z" icon="0" href="Mounting-Covers">
+        <caption translate="true">Mounting Covers</caption>
+      </topicref>
+      <topicref type="topic" id="442113383673123" build="ALL" modified="2021-01-15T08:21:40.540Z" icon="0" href="Installing-the-Tool-Magazine">
+        <caption translate="true">Installing the Tool Magazine</caption>
+      </topicref>
+      <topicref type="topic" id="457726250879273" build="ALL" modified="2023-02-17T16:37:43.510Z" icon="0" href="2_5_2-Checking-Static-Accuracy">
+        <caption translate="true">Checking Static Accuracy</caption>
+      </topicref>
+      <topicref type="topic" id="457727890537560" build="ALL" modified="2023-02-17T16:38:17.959Z" icon="0" href="2_6-Supply-of-Coolant">
+        <caption translate="true">Supply of Coolant </caption>
+      </topicref>
+      <topicref type="topic" id="442117251434135" build="ALL" modified="2021-01-15T15:52:38.750Z" icon="0" href="Before-Starting-Operation">
+        <caption translate="true">Before Starting Operation</caption>
+      </topicref>
+      <topicref type="topic" id="44212769804564" build="ALL" modified="2021-01-15T15:59:19.694Z" icon="0" href="Test-Run">
+        <caption translate="true">Test Run</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="457933740064342" build="ALL" modified="2023-02-17T16:38:50.439Z" icon="0" href="3-Checking-Axis-Reference-Positi">
+      <caption translate="true">Checking Axis Reference Positions</caption>
+      <topicref type="topic" id="440814619893369" build="ALL" modified="2023-02-17T16:39:03.330Z" icon="0" href="3_1-Axis-Reference-Position-Return">
+        <caption translate="true">Axis Reference Position Return</caption>
+        <topicref type="topic" id="440816394278277" build="ALL" modified="2023-02-17T16:39:17.771Z" icon="0" href="3_1_1-Butt-Type-Reference-Position-R">
+          <caption translate="true">Butt Type Reference Position Return</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>

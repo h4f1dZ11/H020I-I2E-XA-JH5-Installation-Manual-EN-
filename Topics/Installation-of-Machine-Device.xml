@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-07-08T15:43:24.398+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Updated">
+  <title>Installation of Machine Accessory Units</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Installation of Machine Accessory Units</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">Installing the Accessory Units</text></para>
+    <para styleclass="Normal" style="margin-top:6px; margin-bottom:6px;">If any peripheral devices are also provided as separate units at factory shipping, assemble these devices. </para>
+    <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body bullet" style="margin-left:35px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body bullet" style="margin-left:35px;"><text styleclass="Normal">Coolant tank</text></li>
+      <li styleclass="Body bullet" style="margin-left:34px;"><text styleclass="Normal">Spindle oil temperature controller</text></li>
+      <li styleclass="Body bullet" style="margin-left:35px;"><text styleclass="Normal">Coolant temperature controller</text></li>
+      <li styleclass="Body bullet" style="margin-left:36px;"><text styleclass="Normal">Mist collector</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:6px;"></para>
+    <para styleclass="Normal" style="margin-bottom:6px;"><text style="font-weight:bold;">Spindle Oil Temperature Controller Piping</text></para>
+    <para styleclass="Normal" style="margin-top:6px; margin-bottom:6px;">Connect the piping by aligning the alignment marks on the piping.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:26px;">Connection piping</li>
+    </list>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px; font-family:Arial; font-size:11pt; color:#000000;">
+      <list id="2" level="1" type="ol" listtype="decimal" formatstring="%1:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px; font-family:Arial; font-size:11pt; color:#000000;">
+        <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px;">Cooling oil IN</li>
+        <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px;">Cooling oil OUT</li>
+      </list>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.5 Spindle &amp; Screw Oil Temperature Controller Piping_edit.png" scale="30.00%" width="866" height="518" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:26px;"></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Spindle Oil Temperature Controller Piping</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Main spindle oil supply port </text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Rc 3/4&apos;</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Main spindle oil return port Rc 3/4&apos;&apos;</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Screw oil supply port Rc 3/4&apos;&apos;</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Screw oil return port Rc 3/4&apos;&apos;</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:6px; page-break-before:always;"><text style="font-weight:bold;">Connecting the Coolant Tank</text></para>
+    <para styleclass="Normal" style="margin-top:6px;">Insert the trough [2] into the trough connection port [1] of the coolant tank, and connect the coolant tank. </para>
+    <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:10px;"><image src="Fig 2.6 Coolant Tank Connections_edit.png" scale="72.00%" width="539" height="675" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Coolant Tank Connections</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Trough connection port</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Trough</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:6px; page-break-before:always;"><text style="font-weight:bold;">Coolant Piping</text></para>
+    <para styleclass="Normal" style="margin-top:6px; margin-bottom:6px;">Connect the piping by aligning the alignment marks on the piping.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:26px;">Connection piping</li>
+    </list>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px; font-family:Arial; font-size:11pt; color:#000000;">
+      <list id="3" level="1" type="ol" listtype="decimal" formatstring="%1:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px; font-family:Arial; font-size:11pt; color:#000000;">
+        <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px;">Piping from main pump: 2-inch union connection</li>
+        <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px;">Through-spindle coolant hose: 3/8-inch hose connection</li>
+        <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:20px;">Spiral cleaning coolant hose: 3/4-inch hose connection</li>
+        <li styleclass="Normal" style="margin-top:6px; margin-left:20px;"><text style="color:#000000;">Spiral cleaning valve pneumatic tube: </text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">Æ </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">6</text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;"> </text><text style="color:#000000;">mm</text></li>
+      </list>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:6px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 2.7 Coolant Piping Locations (Coolant Tank Side)_edit.png" scale="24.00%" width="804" height="426" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Coolant Piping Locations (Coolant Tank Side)</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Main pump</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Through-spindle coolant drain</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Through-spindle coolant</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:17px;"><image src="Fig 2.8 Coolant Piping Locations (Machine Side)_edit.png" scale="25.00%" width="714" height="546" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Coolant Piping Locations (Machine Side)</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Main pump</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Through-spindle coolant drain</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Through-spindle coolant</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:6px; page-break-before:always;"><text style="font-weight:bold;">Pneumatic Piping</text></para>
+    <para styleclass="Normal" style="margin-top:6px; margin-bottom:10px;">Connect the air piping from the plant air source to the air supply port (Rc3/8) [1].</para>
+    <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:10px; margin-left:26px;"><text styleclass="Image Caption"> </text><image src="Fig 2.9 Pneumatic Piping Location_edit.png" scale="12.00%" width="901" height="339" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Pneumatic Piping Locations</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Air supply port (Rc3/8) </text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:6px; page-break-before:always;"><text style="font-weight:bold;">Supplying Oil After Installation</text></para>
+    <para styleclass="Normal" style="margin-top:6px;">If this machine will be shipped outside Singapore, be sure to drain all the hydraulic oil and cooling oil before shipment. Supply oil up to the upper limit level on the level gauge [2] before turning ON the power.</para>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px; margin-bottom:8px;"><image src="Fig 2.10 Supplying with Hydraulic Oil_edit.png" scale="21.00%" width="734" height="312" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Supplying with Hydraulic Oil</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Fill port</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Drain port (Rc 3/8&quot;)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Level gauge</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption">  </text><image src="Fig 2.11 Supplying with Spindle &amp; Screw Cooling Oil_edit.png" scale="21.00%" width="576" height="321" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><anchor id="Fig1.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="Normal">Supplying with Spindle and Screw Cooling Oil</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Fill port</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Figure E" style="font-size:10pt;">Drain port (G1/2&quot;)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Level gauge</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

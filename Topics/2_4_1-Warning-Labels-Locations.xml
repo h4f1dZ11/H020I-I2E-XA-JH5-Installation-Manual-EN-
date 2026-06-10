@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-07-09T08:09:26.074+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Updated">
+  <title>2.4.1 Warning Labels Locations on Standard Machine</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+    <keyword>#MTC</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Warning Labels Locations on Standard Machine</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption"> </text><image src="Warning Labels 01_New_edit1.jpg" imagestyleclass="Default" scale="51.00%" width="1098" height="507" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Warning Labels 02_New_edit.png" imagestyleclass="Default" scale="39.00%" width="693" height="395" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Warning Labels 03_New_edit.png" imagestyleclass="Default" scale="42.00%" width="712" height="383" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Warning Labels 04_New_edit.png" imagestyleclass="Default" scale="48.00%" width="922" height="420" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

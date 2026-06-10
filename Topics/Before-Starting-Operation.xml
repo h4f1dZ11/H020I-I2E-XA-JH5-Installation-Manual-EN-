@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-15T11:24:25.673+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Before Starting Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Before Starting Operation</para>
+    </header>
+    <para styleclass="Normal">Once machine installation and startup are completed, you are ready to start machine operation. Generally, Makino installation staff are present at the installation site until the customer can start actual machining, but the safety information and work items for starting operation are presented below, and so please use them as a checklist. </para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:6px; margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Install and assemble machine</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Remove the fixing brackets (axis locks)</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Connect the main power supply and conduct power test</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Connect the pneumatic source and check the pressure</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check and fill with hydraulic oil</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check and fill with cooling oil</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check and fill with cutting fluid</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the feed axis lubricating grease</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the alarm display after the power is turned on, and check the status (unusual noises or fluid leaks) of each machine component</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the parameters</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check operation of the safety devices (emergency stop buttons, door interlock, etc.)</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the basic operation (spindle rotation, axis feeding, and various auxiliary functions besides the automatic tool changer (ATC))</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the static accuracy</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the reference position of the tool magazine</li>
+    </list>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:26px;">Check the alignment of the tool magazine (<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Confirm Section 8 “Centering Alignment” in Chapter 6 of Maintenance Manual (H020I-M1E-XA) to make adjustment)</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <para styleclass="Normal" style="margin-bottom:6px;">After the above checks are completed, register the tool data to the machine based on the customer&apos;s management method. A program tool number can be registered to the tools that are used for enabling use of the automatic tool change function (M6 and T functions).</para>
+    <para styleclass="Normal">A program number with the same number as each pod (tool storage location) in the tool magazine is already registered at shipping, and so the tool change operation can still be performed automatically even if no tool numbers are registered. To use your own unique tool number, register, and then perform the next tool related operations. </para>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:6px; margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Load tool to tool magazine</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">Check the automatic tool changer (ATC) related auxiliary functions (M6 operations, T functions)</li>
+      <li styleclass="Normal" style="margin-left:26px;">Check the coolant nozzle discharge direction</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:26px; page-break-before:always;"></para>
+  </body>
+</topic>

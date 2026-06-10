@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-21T14:59:23.141+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Test Run</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Test Run</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:6px;">The main operations for running the machine are performed from the main operation panel. Almost all operations for the NC unit and the machine are possible from the main operation panel. </para>
+    <para styleclass="Normal" style="margin-bottom:6px;">After the main power switch (main circuit breaker) of the machine controller is turned ON, pressing the READY button prepares the machine for all operations. For details, see the Instruction Manual, &quot;Basic Operation&quot;. </para>
+    <para styleclass="Normal" style="margin-bottom:6px;">If any problem occurs in the machine, an alarm number and message appear on the display of the main operation panel. For details on alarms, see the Maintenance Manual, &quot;Supplement to Control Software&quot;. </para>
+    <para styleclass="Normal">When shutting OFF the main power of the machine, be sure to follow the specified power-off procedure. For details, see the Instruction Manual, &quot;Basic Operation&quot;.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

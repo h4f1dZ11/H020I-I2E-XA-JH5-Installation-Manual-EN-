@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-22T09:04:06.605+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.1 &quot;Emergency Stop&quot; Switch</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+    <keyword>#MPG</keyword>
+    <keyword>#OPPANEL</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3">&quot;Emergency Stop&quot; Switch</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.jpg" scale="16.00%" width="42" height="37" styleclass="Image Caption" figurelistinclude="0"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:top; width:589px; border-left:none;">
+          <list id="0" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Make sure operators know the locations of all the &quot;Emergency Stop&quot; switches prior to performing machine operation or maintenance to enable use in an abnormal or dangerous situation.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:8px;"><text style="font-size:11pt;">The machine goes to the following status when the &quot;Emergency Stop&quot; switch is pressed:</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Feeding of the axes is stopped immediately.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Spindle rotation stops if it is rotating.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The spindle is clamped if it has been unclamped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">When orientation of the spindle has been performed, orientation is reset.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.18;"><text style="font-size:11pt;">When a tool is being changed or the tool magazine is operating, operation stops immediately (even during motion).</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The lift-up chip conveyor and internal chip conveyor come to an immediate stop during operation.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The hydraulic unit is stopped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The cutting fluid supply is stopped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The air supply of air blow inside the machining chamber is stopped.</text><conditional-text type="IF" value="GRAPHITE"/></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt; color:#ff0000;">The suction of the dust collector is stopped (graphite specifications).</text><conditional-text type="END"/><conditional-text type="IF" value="APC"/></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt; color:#ff0000;">The pallet changer is stopped.</text><conditional-text type="END"/></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Energizing of all solenoid valves is reset.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The NC is reset.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px; line-height:1.18;"><text style="font-size:11pt;">Once the &quot;Emergency Stop&quot; switch is pressed, it is locked in the pressed position. The lock can be released by turning the switch in the direction indicated by the arrow or pulling out the switch. Then, pressing the [CONTROL POWER ON] switch cancels the emergency stop state.</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px; page-break-before:always;"><text style="font-size:11pt;">&quot;Emergency Stop&quot; switches are installed at the following locations. All buttons function identically.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Emergency Stop Switch 01_New_edit.png" imagestyleclass="Default" scale="14.00%" width="606" height="423" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Emergency Stop Switch 02_New_edit.png" imagestyleclass="Default" scale="14.00%" width="559" height="386" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

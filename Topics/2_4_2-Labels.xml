@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-04-16T13:47:00.133+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.2 Labels</title>
+  <meta name="DESCRIPTION" translate="true" value="Update stickers"/>
+  <keywords>
+    <keyword>#MECHOK</keyword>
+    <keyword>#STICKERS</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Labels</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-top:11px; margin-bottom:11px;"><image src="Safety Labels_setting of ATC speed.png" imagestyleclass="Default" scale="40.00%" width="158" height="308" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption">     </text><image src="Safety Labels_edit_1.png" imagestyleclass="Default" scale="40.00%" width="156" height="307" styleclass="Image Caption" figurelistinclude="0"></image>     <image src="Safety Labels_Improper insertion of tool.png" imagestyleclass="Default" scale="40.00%" width="158" height="309" styleclass="Image Caption" figurelistinclude="0"></image>     <image src="Safety Labels_carelessness removing.png" imagestyleclass="Default" scale="40.00%" width="158" height="308" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption">                     </text></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="%0:s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Locations and types of labels differ depending on the machine type or specifications (the above diagram is an example) and subject to revision and change.</li>
+    </list>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:0px;">Confirm the Warning labels on the actual machine.</li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; page-break-before:always;"></para>
+  </body>
+</topic>

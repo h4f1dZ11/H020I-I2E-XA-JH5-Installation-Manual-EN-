@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-20T15:53:43.504+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>General Contents</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">General Contents</para>
+    </header>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 1 &#160; Safety</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the safety devices and warning labels, work and operating precautions, and other information for ensuring safety operation of the machine. Be sure to read this chapter before using the machine.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 2 &#160; Preparation</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the activities and check points required to be completed before actual installation of the machine.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 3 &#160; Installation</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the procedures for hoisting and installing the machine and peripheral equipment.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+  </body>
+</topic>

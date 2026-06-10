@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-05-22T08:45:51.182+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.3.1 Warning Labels with Warning Text</title>
+  <meta name="DESCRIPTION" translate="true" value="Update stickers and warning messages if have changes" />
+  <keywords>
+    <keyword>#MECHOK</keyword>
+    <keyword>#STICKERS</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Warning Labels with Warning Text</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:11px;"><table rowcount="4" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:30%; height:24px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Signal Word</text></para>
+        </td>
+        <td style="width:30%; height:24px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Symbol</text></para>
+        </td>
+        <td style="width:40%; height:24px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Description</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:30%; height:124px;">
+          <para styleclass="Normal" style="text-align:center; margin-left:8px;"><image src="Danger symbol no text.jpg" scale="15.00%" width="40" height="34" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="" style="font-family:Arial; font-size:20pt; font-weight:bold; color:#231f20;">DANGER</text></para>
+        </td>
+        <td style="vertical-align:middle; width:30%; height:124px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Danger_Entering enclosed space.png" scale="10.00%" width="125" height="116" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+        <td style="vertical-align:top; width:40%; height:124px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:8px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Entering enclosed spaces during operation can cause serious injury or death.</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:62px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Turn OFF the main power before opening door.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:30%; height:137px;">
+          <para styleclass="Normal" style="text-align:center; margin-left:8px;"><image src="Danger symbol no text.jpg" scale="15.00%" width="40" height="34" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="" style="font-family:Arial; font-size:20pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:30%; height:137px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Warning_Improper tool insertion.png" imagestyleclass="Default" scale="55.00%" width="141" height="119" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+        <td style="vertical-align:top; width:40%; height:137px;">
+          <para styleclass="Normal" style="margin-top:3px; margin-right:8px; margin-left:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Improper insertion of tool can cause the tool to be thrown during ATC cycle, leading to serious injury.</text></para>
+          <para styleclass="Normal" style="margin-top:3px; margin-right:8px; margin-left:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Close door fully before ATC cycle.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:30%; height:124px;">
+          <para styleclass="Normal" style="text-align:center; margin-left:8px;"><image src="Danger symbol no text.jpg" scale="15.00%" width="40" height="34" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="" style="font-family:Arial; font-size:20pt; font-weight:bold; color:#000000;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:30%; height:124px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Warning_Removing workpiece.png" scale="8.00%" width="121" height="135" styleclass="Image Caption" figurelistinclude="0"></image></para>
+        </td>
+        <td style="vertical-align:top; width:40%; height:124px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:4px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Carelessness when removing workpiece can cause serious injury.</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:4px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Machined edges are sharp and can cut.</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:47px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Exercise extreme care when removing workpiece.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>
