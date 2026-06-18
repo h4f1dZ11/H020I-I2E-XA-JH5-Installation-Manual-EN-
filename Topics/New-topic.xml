@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-18T16:29:00.346Z" lasteditedby="chenhk" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Tool Magazine Adjustment</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Tool Magazine Adjustment</para>
+    </header>
+    <para styleclass="Normal">1. Use the ATC–spindle gap tool to verify the clearance between the ATC arm and spindle.</para>
+    <para styleclass="Normal">2. Adjust the clearance by repositioning the ATC unit using the ATC push‑pull block.</para>
+    <para styleclass="Normal">3. Verify the ATC tool change position.</para>
+    <para styleclass="Normal">4. Install the tool magazine level pad; adjust the bolt to achieve contact, then tighten the nut.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="ATC Arm - Spindle Clearance.png" imagestyleclass="Default" scale="74.76%" width="439" height="384" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Tool Magazine Adjustment.png" imagestyleclass="Default" scale="78.95%" width="575" height="428" styleclass="Image Caption" figurelistinclude="0"></image><image src="Tool Magazine Level Bolt.png" imagestyleclass="Default" scale="46.88%" width="219" height="280" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
