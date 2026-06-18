@@ -1,20 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<<<<<<< HEAD
 <topic template="Default" status="Updated" modified="2026-06-11T10:06:41.760Z" lasteditedby="chenhk" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-=======
-<topic template="Default" status="Updated" modified="2026-06-11T10:10:33.836Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
->>>>>>> ceea0ebbb3e3f37fd2436b6264f04977bdd641e7
   <title>Preparation of Transport Route</title>
   <body>
     <header>
       <para styleclass="Heading3" style="border:none;">Preparation of Transport Route</para>
     </header>
     <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Prepare the machine transport route by referring to the following tables and figures in this section.</text></para>
-<<<<<<< HEAD
     <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
-=======
->>>>>>> ceea0ebbb3e3f37fd2436b6264f04977bdd641e7
     <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption"> &#160; &#160; </text></para>
     <para styleclass="Normal"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
       <tr style="vertical-align:top">
