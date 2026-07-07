@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-06-29T13:47:30.005Z" lasteditedby="chenhk" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-07T14:22:19.458Z" lasteditedby="dingj" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Tool Magazine Adjustment</title>
   <body>
     <header>
@@ -9,7 +9,9 @@
     <para styleclass="Normal">1. Use the ATC–spindle gap tool to verify the clearance between the ATC arm and spindle.</para>
     <para styleclass="Normal">2. Adjust the clearance by repositioning the ATC unit using the ATC push‑pull block.</para>
     <para styleclass="Normal">3. Verify the ATC tool change position.</para>
-    <para styleclass="Normal">4. Install the tool magazine level pad; adjust the bolt to achieve contact, then tighten the nut.</para>
+    <para styleclass="Normal">4. Install the tool magazine level pad; adjust the bolt to achieve contact.</para>
+    <para styleclass="Normal">5. Tighten the nut below ATC with Hand tight is sufficient. No specific torque required.</para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal">.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
