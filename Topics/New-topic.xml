@@ -1,22 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-07T14:22:19.458Z" lasteditedby="dingj" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-08T15:39:47.717Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Tool Magazine Adjustment</title>
   <body>
     <header>
-      <para styleclass="Heading1">Tool Magazine Adjustment</para>
+      <para styleclass="Heading4">Tool Magazine Adjustment</para>
     </header>
-    <para styleclass="Normal">1. Use the ATC–spindle gap tool to verify the clearance between the ATC arm and spindle.</para>
-    <para styleclass="Normal">2. Adjust the clearance by repositioning the ATC unit using the ATC push‑pull block.</para>
-    <para styleclass="Normal">3. Verify the ATC tool change position.</para>
-    <para styleclass="Normal">4. Install the tool magazine level pad; adjust the bolt to achieve contact.</para>
-    <para styleclass="Normal">5. Tighten the nut below ATC with Hand tight is sufficient. No specific torque required.</para>
-    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal">.</text></para>
-    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">Use the ATC–spindle gap tool to verify the clearance between the ATC arm and spindle.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">Adjust the clearance by repositioning the ATC unit using the ATC push‑pull block.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">Verify the ATC tool change position.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">Install the tool magazine level pad; adjust the bolt to achieve contact.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">Tighten the nut below ATC with Hand tight is sufficient. No specific torque required.</li>
+    </list>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="ATC Arm - Spindle Clearance.png" imagestyleclass="Default" scale="65.15%" width="403" height="405" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal" style="text-align:center;"><image src="Tool Magazine Adjustment.png" imagestyleclass="Default" scale="56.24%" width="536" height="391" styleclass="Image Caption" figurelistinclude="0"></image><image src="Tool Magazine Level Bolt.png" imagestyleclass="Default" scale="46.88%" width="219" height="280" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Tool Magazine Adjustment.png" imagestyleclass="Default" scale="56.24%" width="536" height="391" styleclass="Image Caption" figurelistinclude="0"></image><image src="Tool Magazine Level Bolt.png" imagestyleclass="Default" scale="46.88%" width="219" height="280" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><anchor id="Fig2.6" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text styleclass="Figure E" style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;</text><text style="font-size:11pt;">.&lt;%HMFIGURECOUNTER%&gt; &#160;Adjusting the tool magazine</text></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>
