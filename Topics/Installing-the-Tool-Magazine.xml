@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2025-05-21T13:45:13.287+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-08T15:43:38.111Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Installing the Tool Magazine</title>
   <body>
     <header>
@@ -28,7 +28,7 @@
       <li styleclass="Normal" style="margin-top:6px; margin-left:26px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Install 1x M8 Eyebolt onto ATC arm cover [1] hosting hole [2] to lift and position at the installation location. Secure the ATC arm cover by using 9x M5x10 </text><text styleclass="" style="font-family:&apos;Arial Unicode MS&apos;; font-size:11pt; color:#000000;">Truss head screws.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:10px; margin-left:26px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 4.1 ATC Cover Installation Procedure 1_edit.png" imagestyleclass="Default" scale="31.00%" width="571" height="492" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E"><anchor id="Fig2.7" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 1</text></para>
+    <para styleclass="Figure E"><anchor id="Fig2.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 1</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -63,7 +63,7 @@
       <li styleclass="Normal" style="margin-top:6px; margin-left:26px; page-break-before:always;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Install 3x M12 Eyebolt onto ATC cover [1] hosting hole [2] to lift and position at the installation location. Secure the ATC cover by using 8x M8 washers (OD18mm) and 8x M8x25 Socket head screws.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 4.2 ATC Cover Installation Procedure 2_edit.png" imagestyleclass="Default" scale="38.00%" width="782" height="462" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E"><anchor id="Fig2.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 2</text></para>
+    <para styleclass="Figure E"><anchor id="Fig2.9" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 2</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -99,7 +99,7 @@
       <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Install 1x M8 Eyebolt onto ATC inner cover [1] hosting hole [2] to lift and position at the installation location. Secure the ATC cover by using 4x M5x10 Truss head screws on ATC cover side and then 3x M6x10 Truss head screws on ATC side.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 4.3 ATC Cover Installation Procedure 3_edit.png" imagestyleclass="Default" scale="25.00%" width="613" height="435" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E"><anchor id="Fig2.9" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 3</text></para>
+    <para styleclass="Figure E"><anchor id="Fig2.10" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 3</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -136,7 +136,7 @@
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px;"></para>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:10px;"><image src="Fig 4.4 ATC Cover Installation Procedure 4_edit.png" imagestyleclass="Default" scale="25.00%" width="598" height="504" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E"><anchor id="Fig2.10" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 4</text></para>
+    <para styleclass="Figure E"><anchor id="Fig2.11" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 4</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -161,7 +161,7 @@
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 4.5 ATC Cover Installation Procedure 5_edit.png" imagestyleclass="Default" scale="18.00%" width="366" height="322" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 4.6 ATC Cover Installation Procedure 6_edit.png" imagestyleclass="Default" scale="18.00%" width="365" height="379" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E"><anchor id="Fig2.11" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 5</text></para>
+    <para styleclass="Figure E"><anchor id="Fig2.12" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC covers Installation Procedure 5</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -197,7 +197,7 @@
       <li styleclass="Normal" style="margin-bottom:6px; margin-left:26px;">ATC covers installation complete.</li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:10px; margin-left:26px;"><image src="Fig 4.7 ATC Cover Installation Procedure 7_edit.png" imagestyleclass="Default" scale="23.00%" width="581" height="497" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig2.12" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC cover Installation Procedure 6</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig2.13" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; ATC cover Installation Procedure 6</text></para>
     <para styleclass="Normal" style="margin-top:6px; margin-bottom:6px; page-break-before:always;"></para>
   </body>
 </topic>
