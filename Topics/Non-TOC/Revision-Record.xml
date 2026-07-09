@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T09:12:39.988Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T09:24:48.075Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
   <title>Revision Record</title>
   <body>
     <header>
@@ -78,7 +78,7 @@
           <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
           <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
           <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
-          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Newly added topic</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Newly added</para>
         </td>
       </tr>
     </table></para>

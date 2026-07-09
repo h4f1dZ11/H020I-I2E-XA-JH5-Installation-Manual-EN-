@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T08:59:11.734+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Updated">
+<topic template="Default" status="Updated" modified="2026-07-09T09:21:15.055Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>1.2 Preparation of Tools</title>
   <body>
     <header>
@@ -225,5 +225,6 @@
         </td>
       </tr>
     </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
   </body>
 </topic>

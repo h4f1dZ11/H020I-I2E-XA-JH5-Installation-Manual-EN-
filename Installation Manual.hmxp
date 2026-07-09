@@ -37,7 +37,7 @@
         <export-tasks>
           <export-task name="Publish as PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">.\PDF\H020I-I2E-XA JH5 Installation Manual (EN)_2.pdf</task-config-value>
+              <task-config-value name="outputfile">.\PDF\H020I-I2E-XB JH5 Installation Manual (EN).pdf</task-config-value>
               <task-config-value name="template">.\Templates\Makino_manual_Installation_JH5 Pro U.mnl</task-config-value>
               <task-config-value name="highlighthotspots">0</task-config-value>
               <task-config-value name="exportcomments">0</task-config-value>
@@ -239,7 +239,7 @@
       <config-value name="insertseealsostyle">0</config-value>
       <config-value name="linkcolor">16711680</config-value>
       <config-value name="ignoreblank">0</config-value>
-      <config-value name="outputfile">.\PDF\H020I-I2E-XA JH5 Installation Manual (EN)_2.pdf</config-value>
+      <config-value name="outputfile">.\PDF\H020I-I2E-XB JH5 Installation Manual (EN).pdf</config-value>
       <config-value name="template">.\Templates\Makino_manual_Installation_JH5 Pro U.mnl</config-value>
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
