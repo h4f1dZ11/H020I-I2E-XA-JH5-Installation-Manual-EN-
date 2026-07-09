@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T11:23:32.160Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T12:01:26.440Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Preparation of Transport Route</title>
   <body>
     <header>
@@ -37,7 +37,7 @@
       </tr>
     </table></para>
     <para styleclass="Figure E"><text styleclass="Image Caption">&#32;</text><image src="Fig 2.1 Roller Locations_edit.png" scale="30.00%" width="535" height="275" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.7" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Roller Locations</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.7" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Roller Locations</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -65,7 +65,7 @@
       </tr>
     </table></para>
     <para styleclass="Figure E"><image src="Fig 2.1 Forklift Insertion Slots 20250620.png" imagestyleclass="Default" scale="50.00%" width="624" height="468" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Forklift Insertion Slots</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Forklift Insertion Slots</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -105,7 +105,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 3.1 Overview of Hoisting Attachments_edit.png" scale="19.00%" width="778" height="395" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.9" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Overview of Hoisting Attachments</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.9" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Overview of Hoisting Attachments</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -179,10 +179,10 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
-    <para styleclass="Normal" style="text-align:center; margin-bottom:11px;"><image src="Pg 60_1.png" imagestyleclass="Default" scale="8.50%" width="301" height="437" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption"> &#160;</text><image src="Pg 60.png" imagestyleclass="Default" scale="15.10%" width="291" height="434" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Pg 60_1.png" imagestyleclass="Default" scale="8.50%" width="301" height="437" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption"> &#160;</text><image src="Pg 60.png" imagestyleclass="Default" scale="15.10%" width="291" height="434" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.10" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Standard Coolant Tank with Options Dimensions for Lifting</text></para>
-    <para styleclass="Normal" style="text-align:center; margin-bottom:11px;"></para>
-    <para styleclass="Normal" style="text-align:center; margin-bottom:11px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 1.11_1.png" imagestyleclass="Default" scale="6.50%" width="231" height="388" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption"> &#160; &#160; &#160; &#160;</text><image src="Fig 1.11_2.png" imagestyleclass="Default" scale="6.70%" width="224" height="214" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 1.11_1.png" imagestyleclass="Default" scale="6.50%" width="231" height="388" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption"> &#160; &#160; &#160; &#160;</text><image src="Fig 1.11_2.png" imagestyleclass="Default" scale="6.70%" width="224" height="214" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.11" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Drum Conveyor Dimensions for Lifting</text></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Pg 75 Chip Trolley Dimensions for Lifting.png" scale="13.00%" width="270" height="639" styleclass="Image Caption" figurelistinclude="0"></image></para>

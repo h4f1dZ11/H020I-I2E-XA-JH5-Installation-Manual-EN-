@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-08T15:39:58.678Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T13:40:54.876Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Mounting Covers</title>
   <body>
     <header>
@@ -13,7 +13,6 @@
     <para styleclass="Normal"><text style="font-size:11pt;">This completes the mounting of the covers.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="Pg 135 Mounting the Machine Covers.png" imagestyleclass="Default" scale="20.00%" width="412" height="402" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Mounting the Machine Covers_STD.png" scale="9.00%" width="3" height="3" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><anchor id="Fig2.7" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text styleclass="Figure E" style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;</text><text style="font-size:11pt;">.&lt;%HMFIGURECOUNTER%&gt; &#160;Mounting the Machine Covers (Standard Machine)</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">

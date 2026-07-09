@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T11:26:33.557Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T12:02:22.793Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Hoisting Attachments</title>
   <body>
     <header>
@@ -26,7 +26,7 @@
     <para styleclass="Normal" style="margin-top:6px; margin-bottom:3px;">The hoisting attachments of the machine consist of lifting beam, hook rods, shackles, wire ropes and hooks connecting these parts. The height from the floor including the hoisting attachments is about 3600 mm.</para>
     <para styleclass="Normal" style="margin-top:6px;">The weight of the machine including both the machine body and hoisting attachments is about 12,000 kg.</para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:6px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 3.1 Overview of Hoisting Attachments_edit.png" imagestyleclass="Default" scale="22.00%" width="900" height="457" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.14" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Overview of Hoisting Attachments</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.14" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Overview of Hoisting Attachments</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -105,7 +105,7 @@
       <li styleclass="Normal" style="margin-top:6px; margin-left:26px;">Turn the protrusions [1] on the hook rod [2] so that they are on the side, and insert the rod into the cast hole [3] on the bed side. (Insert by aligning with the shape of the cast hole [3].) Remove the eyebolt [4].</li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 3.2 Mounting the Hook Rod 1_edit.png" imagestyleclass="Default" scale="50.00%" width="409" height="254" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.15" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 1</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.15" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 1</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -155,7 +155,7 @@
       <li styleclass="Normal" style="margin-top:6px; margin-bottom:6px; margin-left:26px;">Push in the hook rod until the outer wall [1] is positioned between the two protrusions of the hook rod and fitted inside.</li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:6px;"><image src="Fig 3.3 Mounting the Hook Rod 2_edit.png" imagestyleclass="Default" scale="12.00%" width="442" height="268" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.16" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 2</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.16" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 2</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -178,7 +178,7 @@
       <li styleclass="Normal" style="margin-bottom:10px; margin-left:26px; page-break-before:always;">Turn the hook rod by 90<text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">° </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">so that the protrusions are facing upward.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 3.4 Mounting the Hook Rod 3_edit.png" imagestyleclass="Default" scale="40.00%" width="556" height="375" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.17" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 3</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.17" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 3</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -202,7 +202,7 @@
     </list>
     <para styleclass="Normal" style="margin-left:26px;"></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 3.5 Mounting the Hook Rod 4_edit.png" imagestyleclass="Default" scale="60.00%" width="646" height="254" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.18" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 4</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.18" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Mounting the Hook Rod 4</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -252,7 +252,7 @@
       <li styleclass="Normal" style="margin-top:6px; margin-bottom:19px; margin-left:26px;">Mount the hoisting attachments to the crane. When mounting to the crane, adjust the length of the adjustment ropes [1] at top of the machine so that the lifting beam is horizontal.</li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 3.6 Adjusting the wires_edit.png" imagestyleclass="Default" scale="16.00%" width="1019" height="455" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig1.19" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Adjusting the Wires</text></para>
+    <para styleclass="Figure E"><anchor id="Fig1.19" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Adjusting the Wires</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
