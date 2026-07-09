@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>4.2 Electrical System</title>
+<topic template="Default" modified="2026-07-09T10:27:47.666Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Electrical System</title>
   <keywords>
     <keyword>#MECHOK</keyword>
   </keywords>
@@ -85,7 +85,7 @@
     </table></para>
     <para styleclass="Normal"></para>
     <para styleclass="Notes">-NOTES-</para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
       <li styleclass="Notes">Prior to performing maintenance of the servo amplifiers, spindle amplifiers, and inverters, turn OFF the main power switch and confirm that the LED which indicates charging (red) for each amplifier and inverter is off.</li>
       <li styleclass="Notes">High voltage current flows through components inside the junction box.</li>
       <li styleclass="Notes">High voltage current continues to flow on the primary side of the main power switch even after the main power supply is turned OFF.</li>
