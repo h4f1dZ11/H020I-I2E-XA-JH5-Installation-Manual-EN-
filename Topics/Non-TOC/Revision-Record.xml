@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
-<topic template="Default" modified="2025-06-25T08:43:33.796+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T08:37:51.100Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
   <title>Revision Record</title>
   <body>
     <header>
@@ -26,7 +26,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="margin-top:15px;"></para>
-    <para styleclass="Normal" style="margin-top:15px;"><table styleclass="Default" rowcount="2" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#ffffff; alt-row-background-color:#ffffff;">
+    <para styleclass="Normal" style="margin-top:15px;"><table styleclass="Default" rowcount="3" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#ffffff; alt-row-background-color:#ffffff;">
       <thead style="vertical-align:top">
         <td style="vertical-align:middle; width:7%; height:40px; background-color:#ffffff;">
           <para styleclass="Normal" style="text-align:center;">No.</para>
@@ -54,6 +54,31 @@
           <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Newly issued</para>
         </td>
         <td style="height:40px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:7%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">2</para>
+        </td>
+        <td style="vertical-align:middle; width:28%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="color:#000000;">H020I-I2E-XB</text></para>
+          <para styleclass="Normal" style="text-align:center;"><text style="color:#000000;">(07/2026)</text></para>
+        </td>
+        <td style="width:40%; height:40px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Updated:</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Chapter 2</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">- 1.6 Preparation of Tools</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Chapter 3</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">- 2.2 Level Adjustment</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">-2.3 Tool Magazine Adjustment</para>
+        </td>
+        <td style="height:40px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;"></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Newly added topic</para>
         </td>
       </tr>
     </table></para>

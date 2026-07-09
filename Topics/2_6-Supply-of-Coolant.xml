@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2025-09-15T16:41:08.114+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T08:12:08.574Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>2.6 Supply of Coolant </title>
   <keywords>
     <keyword>#MCVIEW</keyword>
@@ -62,7 +62,7 @@
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px; margin-left:34px;"><text styleclass="Image Caption">&#32;</text></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px; margin-left:34px;"></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px; margin-left:34px;"><image src="Fig 2.13.png" imagestyleclass="Default" scale="15.00%" width="519" height="301" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig2.13" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Coolant Supply</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig2.14" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Coolant Supply</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
