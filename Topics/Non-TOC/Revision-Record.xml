@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T08:37:51.100Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T09:12:39.988Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
   <title>Revision Record</title>
   <body>
     <header>
@@ -21,7 +21,7 @@
           <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Manual No.</text></para>
         </td>
         <td style="vertical-align:middle; height:25px;">
-          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:8px;"><text style="font-size:11pt; color:#000000;">H020I-I2E-XA</text></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:8px;"><text style="font-size:11pt; color:#000000;">H020I-I2E-XB</text></para>
         </td>
       </tr>
     </table></para>
