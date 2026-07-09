@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T10:25:47.124Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T11:04:33.346Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Supply of Coolant </title>
   <keywords>
     <keyword>#MCVIEW</keyword>
@@ -52,7 +52,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Procedure to supply of coolant to coolant tank. </text><text style="font-size:11pt;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.13" style="font-size:11pt; color:#0000ff;">Figure 2.13</link><text style="font-size:11pt;">)</text></para>
+    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Procedure to supply of coolant to coolant tank. </text><text style="font-size:11pt;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.14" style="font-size:11pt; color:#0000ff;">Figure 2.14</link><text style="font-size:11pt;">)</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal" style="margin-bottom:8px; margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">1) Remove the Maintenance cover [2] to access the coolant fill port.</text></para>
     <para styleclass="Normal" style="margin-bottom:8px; margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">2) Supply coolant from the fill port with the Coolant Tank pumps OFF. </text></para>

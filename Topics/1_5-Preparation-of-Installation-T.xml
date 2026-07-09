@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T08:58:51.955+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T11:29:50.480Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Preparation of Installation &amp; Transportation Equipment</title>
   <body>
     <header>
@@ -10,7 +10,7 @@
     <para styleclass="Normal"><text style="font-size:11pt;">When transport equipment is required, contact your Makino service representative for further assistance.</text></para>
     <para styleclass="Normal"><text style="font-size:11pt;">Refer to the table below for the approximate weights of each item during transportation.</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Figure E" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; </text><text style="font-family:Arial; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Machine Weight During Transportation</text></para>
+    <para styleclass="Figure E"><anchor id="Table1.2" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; </text><text style="font-family:Arial; font-size:11pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Machine Weight During Transportation</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="8" colcount="3" style="width:auto; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td colspan="2" style="vertical-align:middle; width:398px; height:18px; background-color:#dddddd;">
@@ -60,7 +60,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:352px; height:18px; border-left:none;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mist Collector </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mist Collector (Option)</text></para>
         </td>
         <td style="vertical-align:middle; width:135px; height:18px; border-left:none;">
           <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">45 kg</text></para>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T09:27:06.355Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T11:30:32.642Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Preparation of Foundation</title>
   <keywords>
     <keyword>#MECHOK</keyword>
@@ -22,7 +22,7 @@
     <para styleclass="Normal" style="text-align:center;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="FOUNDATION, CX33.png" imagestyleclass="Default" scale="35.00%" width="985" height="667" styleclass="Image Caption" figurelistinclude="0"></image></para>
     <para styleclass="Figure E" style="margin-top:6px; margin-bottom:0px;"><anchor id="Fig1.13" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Recommended Machine Foundation</text></para>
-    <para styleclass="Figure E" style="page-break-before:always;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; </text><text style="font-size:11pt;">Recommended Foundation Conditions</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"><anchor id="Table1.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; </text><text style="font-size:11pt;">Recommended Foundation Conditions</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:367px; height:27px; background-color:#dddddd;">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-07-09T10:26:05.947Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-07-09T11:04:08.003Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Butt Type Reference Position Return</title>
   <body>
     <header>
@@ -9,7 +9,6 @@
     <para styleclass="Normal"><text style="font-size:11pt;">The Butt Type Reference method takes the axis reference with respect to the mechanical stopper. To perform reference position return follow the procedures below.</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal" style="margin-bottom:10px; margin-left:34px;"><text style="font-size:11pt; font-weight:bold;">Operation Procedure</text></para>
-    <para styleclass="Normal" style="margin-bottom:10px; margin-left:34px;"><text style="font-size:11pt;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig1.33" target="_blank" style="font-size:11pt; color:#0000ff;">Figure 1.33</link><text style="font-size:11pt;">)</text></para>
     <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
       <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Select </text><text style="font-size:11pt; font-weight:bold;">[REFERENCE]</text><text style="font-size:11pt;"> mode on the main operation panel.</text></li>
       <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Select the axis to be referenced by pressing the Axis Selection switch. Z-axis should be selected first.</text></li>
